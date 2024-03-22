@@ -1,3 +1,11 @@
+# Concurrency Controls
+Studying various concurrency control methods using ypescript & asynchronous programming in Python
+***
+
+
+
+
+
 ## 디렉토리 구조
 src    
 ├── app.controller.spec.ts   
